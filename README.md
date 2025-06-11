@@ -2,6 +2,7 @@
 **ESP32 + Firebase + Node-RED + Minecraft + Apple HomeKit + Reddit API**
 
 A real-world smart automation system using ESP32 microcontroller that bridges the gap between physical devices and virtual platforms like Minecraft, Apple Home, and Reddit.
+📄 [View Project Poster (PDF)](./Reddit app presentation.pdf.pdf)
 
 ---
 
